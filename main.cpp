@@ -1,5 +1,6 @@
 #include "data.h"
-#include "èrÛd≥o1.h"
+#include "Body.cpp"
+#include "Tree.cpp"
 
 Body body[N];
 Tree *mainNode = new Tree;
